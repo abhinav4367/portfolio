@@ -1,4 +1,4 @@
-# Personal Portfolio Readme
+# Personal Portfolio
 
 Welcome to my personal portfolio! This space is designed to showcase my skills, projects, and experiences. Feel free to explore and get to know more about me.
 
