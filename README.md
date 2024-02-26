@@ -38,7 +38,7 @@ persistent and secure data storage between sessions.
 - Link: https://github.com/abhinav4367/Password-Manager-Using-Python
 
 ## Education
-- **Bachelor of Technology (B. Tech.) – Computer Science**
+- **Bachelor of Technology (B. Tech.) – Computer Science (2020-24)**
 - **Ahalia School Of Engineering & Technology, Palakkad**
 - **APJ Abdul Kalam Technological University**
 
